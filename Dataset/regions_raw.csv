@@ -1,0 +1,11 @@
+region_id,region_name,country,sub_region
+1,North America East,USA,Northeast
+2,North America West,USA,West
+3,NORTH AMERICA CENTRAL,USA,Midwest
+4,Western Europe,Germany,EU West
+5,  Southern Europe  ,Italy,EU South
+6,United Kingdom,UK,UK
+7,SOUTH EAST ASIA,Singapore,APAC
+8,East Asia,Japan,APAC
+9,  Latin America  ,Brazil,LATAM
+10,Middle East,UAE,MEA
